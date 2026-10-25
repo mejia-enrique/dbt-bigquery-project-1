@@ -7,7 +7,7 @@
     // CRUCIAL - you need to change this to terminal.integrated.env.[osx|windows|linux] depending on your system
     // and point it to the folder where your profiles directory is stored!
     "terminal.integrated.env.osx": {
-        "DBT_PROFILES_DIR": "./lessons",
+        // "DBT_PROFILES_DIR": "~/.dbt",
 		"BIGQUERY_PROJECT": "dbt-udemy-course-511723"
     },
 
